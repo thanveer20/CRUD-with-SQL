@@ -11,24 +11,20 @@ Delete a student
 
 ## Running the Application Locally
 Clone the repository to your local machine:
-bash
-Copy code
 git clone https://github.com/thanveer20/CRUD-with-SQL.git
+
 Navigate to the project directory:
-bash
-Copy code
-cd your-repository-name
+cd CRUD-with-SQL
+
 Build the project using Maven:
-Copy code
 mvn clean install
+
 Run the application:
-arduino
-Copy code
 mvn spring-boot:run
+
 The application should now be running on localhost:8080.
 
 ## API Endpoints
-Method	URL	Description
 POST	/api/students	Add a new student
 GET	/api/students	Retrieve all students
 GET	/api/students/{id}	Retrieve a student by ID
