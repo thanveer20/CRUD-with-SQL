@@ -3,11 +3,17 @@
 This project is a simple RESTful API for managing students using Spring Boot and JPA (Java Persistence API). It allows users to perform CRUD (Create, Read, Update, Delete) operations on student entities.
 
 ## Features
-Add a new student
-Retrieve all students
-Retrieve a single student by ID
-Update a student's details
-Delete a student
+
+- Add a new student
+- Retrieve all students
+- Retrieve a single student by ID
+- Update a student's details
+- Delete a student
+
+## Running the Application Locally
+
+1. **Clone the repository** to your local machine:
+
 
 ## Running the Application Locally
 Clone the repository to your local machine:
